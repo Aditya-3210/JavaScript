@@ -154,3 +154,5 @@ console.log(`The sum of two given integers is ${add2(2, 3)}`);
 //where do you see yourself in next 5 years, tell 2 qualities about yourself and why? ,
 
 //33-204 cabin 11
+
+//just for checking
